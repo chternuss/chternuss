@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Christian 🙋🏼‍♂️
 
-<!--
-**chternuss/chternuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hobbies
+- Jogar videogame;
+- Praticar atividade física (academia, corrida e futebol);
+- Ler
 
-Here are some ideas to get you started:
+### Formação
+- Graduação em Sistemas de Informação na Universidade Feevale;
+- Curso Técnico em Tecnologia da Informação pela escola Braniewo;
+- Growdev;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiência Profissional
+
+### Linguagens
+[![Icone JS](https://img.icons8.com/?size=50&id=hKrJAdwqbGgG&format=png&color=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
